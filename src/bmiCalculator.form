@@ -64,9 +64,9 @@
                       </Group>
                       <Group type="102" alignment="1" attributes="0">
                           <Component id="weightLabel" min="-2" max="-2" attributes="0"/>
-                          <EmptySpace max="32767" attributes="0"/>
+                          <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
                           <Component id="weightField" min="-2" pref="156" max="-2" attributes="0"/>
-                          <EmptySpace min="-2" pref="116" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
                       </Group>
                   </Group>
               </Group>
@@ -113,12 +113,12 @@
                       <Component id="feetLabel" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="inchesLabel" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace pref="64" max="32767" attributes="0"/>
+                  <EmptySpace pref="55" max="32767" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="weightField" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
                       <Component id="weightLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="weightField" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
                   <Component id="calculateButton" min="-2" pref="57" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" attributes="0">
